@@ -19,7 +19,7 @@ public class GroupView extends LinearLayout {
 	}
 
 	public GroupView(Context context) {
-		super(context);  
+		super(context);
 		initGroupView();
 	}
 
