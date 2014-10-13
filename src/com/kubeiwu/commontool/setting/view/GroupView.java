@@ -25,7 +25,7 @@ public class GroupView extends LinearLayout {
 
 	private void initGroupView() {
 		setOrientation(VERTICAL);
-	} 
+	}
 
 	private ArrayList<RowDescriptor> descriptors = new ArrayList<>();
 
